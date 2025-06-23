@@ -1,0 +1,3 @@
+# Write the names in each line you want do check
+# name1
+# name2...
